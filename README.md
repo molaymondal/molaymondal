@@ -4,16 +4,12 @@
 💻 Java Full-Stack Developer @ **Capgemini**  
 🔬 Researcher in **IoT, Embedded Systems & Edge AI**
 
----
-
 ## 🚀 About Me
 
 I work on **IoT and embedded systems** with a strong focus on **intelligent sensing, edge AI/TinyML, and reliable system design**.  
 My interests lie in building **energy-efficient, fault-aware, and scalable sensing platforms** that operate robustly in real-world conditions.
 
 I enjoy working **end-to-end** — from **sensor integration and ESP32-based firmware** to **wireless communication, data synchronization, and on-device machine learning (ANN/TinyML)**.
-
----
 
 ## 🔬 Research Interests
 
@@ -23,8 +19,6 @@ I enjoy working **end-to-end** — from **sensor integration and ESP32-based fir
 - Low-Power IoT Systems  
 - ESP32 / Embedded Firmware (ESP-IDF, MicroPython)  
 - Wireless Communication (BLE, Wi-Fi)  
-
----
 
 ## 🛠️ Technical Skills
 
@@ -43,15 +37,11 @@ I enjoy working **end-to-end** — from **sensor integration and ESP32-based fir
 - Python, MySQL  
 - REST APIs  
 
----
-
 ## 📚 Education
 
 - **PhD (Ongoing)** – IoT & Intelligent Systems, NIT Durgapur  
-- **M.Tech (IT)** – Govt. College of Engineering & Ceramic Technology (87.7%)  
+- **M.Tech (IT)** – Govt. College of Engineering & Ceramic Technology  
 - **B.Tech (CSE)** – Govt. College of Engineering & Ceramic Technology  
-
----
 
 ## 🤝 Collaboration & Contact
 
